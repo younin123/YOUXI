@@ -1,1 +1,0 @@
-{'Info': {'User': '', 'GitUrl': '', 'UploadTime': '', 'MusicLists': {1: 'MyFavourite'}}, 'MusicList': {'MyFavourite': {1: {'MusicName': '', 'MusicAuthor': '', 'MusicListName': '', 'MusicUrl': '', 'MusicIco': ''}, 2: {'MusicName': '', 'MusicAuthor': '', 'MusicListName': '', 'MusicUrl': '', 'MusicIco': ''}, 3: {}}}}
